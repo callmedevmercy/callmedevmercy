@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Mercy!
 
-<!--
-**callmedevmercy/callmedevmercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer based in Lagos with 6 months of experience. I am currently a Computer Science undergraduate at LASU.
+I love combining logic with creativity. Recently, I have been leading the frontend team for AccessTravel, building tools to help people with disabilities travel easily.
 
-Here are some ideas to get you started:
+My Tech Stack: HTML, CSS, JavaScript, React, and Cloudinary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Working On:
+AccessTravel: An accessible travel planning platform.
+Aqua Skin: An e-commerce website project.
+
+When I'm not coding: You can find me reading a good book or watching anime. I love stories where the underdog wins! I’m also a history buff with a specific interest in the Joseon Era of Korea.
+
+Let's Connect: I am looking for paid internships and frontend roles. Check out my repositories below to see my work!
