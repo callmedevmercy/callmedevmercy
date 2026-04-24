@@ -17,6 +17,8 @@ I am a passionate Frontend Developer based in Lagos, Nigeria, dedicated to build
 
 **Tools & Workflow**
 * ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+* **Tools & Workflow**
+* ![Antigravity](https://img.shields.io/badge/Antigravity-FF4B11?style=flat&logo=rocket&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -39,9 +41,9 @@ I am a passionate Frontend Developer based in Lagos, Nigeria, dedicated to build
 
 * **LinkedIn**: [http://linkedin.com/in/mercy-ottah-nelson-9a4234282]
 * **Portfolio**: [https://mercyportfolios.netlify.app/]
-* **Email**: [mercyottajnelson@gmail.com]
+* **Email**: [mercyottahnelson@gmail.com]
 
 ---
 
 ### 📖 Beyond Coding
-When I'm not debugging or writing documentation, you'll likely find me lost in a historical romance novel. I'm a big fan of authors like Virginia Henley and Susan Elizabeth Phillips!,i'm also a big anime fan (jjk) fan 
+When I'm not debugging or writing documentation, you'll likely find me lost in a historical romance novel. I'm a big fan of authors like Virginia Henley and Susan Elizabeth Phillips!,i'm also a big anime fan (jjk) fan.
