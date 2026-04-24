@@ -1,6 +1,6 @@
 Hi, I'm Mercy!
 
-I am a Frontend Developer based in Lagos with 6 months of experience. I am currently a Computer Science undergraduate at LASU.
+I am a Frontend Developer based in Lagos with 1-2 year of experience. I am currently a Computer Science undergraduate at LASU.
 I love combining logic with creativity. Recently, I have been leading the frontend team for AccessTravel, building tools to help people with disabilities travel easily.
 
 My Tech Stack: HTML, CSS, JavaScript, React, and Cloudinary.
